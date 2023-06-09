@@ -22,5 +22,5 @@ os seguintes dados:
 - Load Type: Tipo de carga categórica, que pode ser Light Load (Carga Leve), Medium Load (Carga Média) ou Maximum Load (Carga Máxima). Essa classificação representa a intensidade da carga elétrica utilizada pela indústria durante o período de tempo especificado.
 
 
-Para chegar no nosso objetivo, dividimos os dados a partir do dia 15 de outubro, a fim de que o modelo fizesse a predição do uso de energia dos mesmos. 
+Para chegar no nosso objetivo, dividimos os dados a partir do dia 15 de outubro, a fim de que o modelo fizesse a predição do uso de energia do restante dos dias do ano. 
 E o resultado é um modelo que tem ótima acertividade (Mean Squared Error: 2.01 e r2 de 0.99)
