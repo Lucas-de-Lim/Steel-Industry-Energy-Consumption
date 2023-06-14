@@ -1,4 +1,4 @@
-Nesse projeto, utilizo ténicas de análise de séries temporais e crio um modelo boosting de regressão para
+Nesse projeto, utilizo técnicas de análise de séries temporais e crio um modelo boosting de regressão para
 prever a quantidade de energia elétrica consumida nessa planta industrial de produção de aço.
 O dataset pode ser encontrado do kaggle (https://www.kaggle.com/datasets/csafrit2/steel-industry-energy-consumption) e nele temos 
 os seguintes dados:
