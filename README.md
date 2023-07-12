@@ -23,4 +23,4 @@ os seguintes dados:
 
 
 Para chegar no nosso objetivo, dividimos os dados a partir do dia 15 de outubro, a fim de que o modelo fizesse a predição do uso de energia do restante dos dias do ano. 
-E o resultado é um modelo que tem ótima acertividade (Mean Squared Error: 2.01 e r2 de 0.99)
+E o resultado é um modelo que tem ótimo desempenho (Mean Squared Error: 2.01 e r2 de 0.99)
